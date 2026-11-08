@@ -1,5 +1,7 @@
 # ServiceNow Quick Navigator by Alex
 
+**[Install from the Chrome Web Store](https://chromewebstore.google.com/detail/servicenow-quick-navigato/lcoboklcfnfpbjbefpjcegcbicgenkkf)**
+
 Public privacy policy for the Chrome extension.
 
 [Read the privacy policy](https://holdarnyeka.github.io/servicenow-quick-navigator/privacy.html)
